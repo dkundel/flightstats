@@ -27,7 +27,7 @@
     "inquirer": "^1.0.2",
     "jquery": "^3.0.0",
     "jsdom": "^8.4.0",
-    "json2csv": "^3.3.0",
+    "json2csv": "^4.0.0",
     "lodash": "^4.11.1",
     "mimelib": "^0.2.19",
     "mkdirp": "^0.5.1",
