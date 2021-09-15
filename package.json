@@ -24,7 +24,7 @@
     "cli-spinner": "^0.2.5",
     "google-auth-library": "^0.10.0",
     "googleapis": "^16.0.0",
-    "inquirer": "^1.0.2",
+    "inquirer": "^7.0.5",
     "jquery": "^3.0.0",
     "jsdom": "^8.4.0",
     "json2csv": "^3.3.0",
